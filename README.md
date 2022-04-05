@@ -2,8 +2,8 @@
 
 <div>
   <a href="github.com/aricyrulin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aricyrulin&count_private=true&show_icons=true&theme=vue" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricyrulin&theme=vue&layout=compact" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aricyrulin&count_private=true&show_icons=true&theme=vue" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricyrulin&theme=vue&layout=compact" />
   </a>
 </div>
 
