@@ -2,17 +2,17 @@
 
 <div>
   <a href="github.com/aricyrulin">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aricyrulin&count_private=true&show_icons=true&theme=vue" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricyrulin&theme=vue&layout=compact" />
+  <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=aricyrulin&count_private=true&show_icons=true&theme=vue" />
+  <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aricyrulin&theme=vue&layout=compact" />
   </a>
 </div>
 
 ###
 
 <div>
-  <img align="center" heigth="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" heigth="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" heigth="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" heigth="30px" width="40px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" heigth="30px" width="40px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" heigth="30px" width="40px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ##
