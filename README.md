@@ -1,4 +1,4 @@
-## Student of Full-Stack Web Develepment
+## Student of Full-Stack Web Development
 
 <div>
   <a href="github.com/aricyrulin">
